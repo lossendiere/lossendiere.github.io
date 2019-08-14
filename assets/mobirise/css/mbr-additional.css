@@ -3259,3 +3259,54 @@ body {
   color: #ffffff !important;
   border-bottom: 1px solid currentColor;
 }
+.cid-rz93RaslEy {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rz93RaslEy .mbr-text {
+  color: #879a9f;
+}
+.cid-rz93RaslEy .color {
+  background: #fff3f3;
+}
+.cid-rz93RaslEy .counter-container ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+  line-height: 2;
+}
+.cid-rz93RaslEy .counter-container ul li {
+  margin-bottom: .2rem;
+  list-style: none;
+}
+.cid-rz93RaslEy .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 14px 16px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #3d626c;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+@media (min-width: 767px) {
+  .cid-rz93RaslEy .card2 {
+    margin-left: 1rem;
+  }
+  .cid-rz93RaslEy .card-wrapper {
+    margin-right: 1rem;
+  }
+  .cid-rz93RaslEy li:before {
+    left: 1rem!important;
+  }
+}
+.cid-rz93RaslEy .mbr-text,
+.cid-rz93RaslEy .mbr-section-btn {
+  color: #149dcc;
+}
