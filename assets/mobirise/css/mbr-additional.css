@@ -2724,6 +2724,123 @@ body {
     width: 90%;
   }
 }
+.cid-rz8RJETuJd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rz8RJETuJd .mbr-text {
+  color: #767676;
+}
+.cid-rz8RJETuJd .sig {
+  width: 300px;
+}
+.cid-rz8RJETuJd .card-title {
+  text-align: left;
+}
+.cid-rz8TuzE6cO {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rz8TuzE6cO .counter-container ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+.cid-rz8TuzE6cO .counter-container ul li {
+  margin-bottom: .2rem;
+  list-style: none;
+}
+.cid-rz8TuzE6cO .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 11px 16px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #767676;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+.cid-rz8TuzE6cO .mbr-text {
+  color: #767676;
+}
+@media (min-width: 992px) {
+  .cid-rz8TuzE6cO img {
+    width: 90%;
+  }
+}
+.cid-rz8UCRLELa {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rz8UCRLELa .mbr-text {
+  color: #767676;
+}
+.cid-rz8UCRLELa .sig {
+  width: 300px;
+}
+.cid-rz8UCRLELa .mbr-text,
+.cid-rz8UCRLELa .sig-img {
+  text-align: left;
+}
+.cid-rz8VLs9geO {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rz8VLs9geO .mbr-text {
+  color: #767676;
+}
+.cid-rz8VLs9geO .sig {
+  width: 300px;
+}
+.cid-rz8VLs9geO .card-title {
+  text-align: center;
+}
+.cid-rz8XzwjK5f {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rz8XzwjK5f .counter-container ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+}
+.cid-rz8XzwjK5f .counter-container ul li {
+  margin-bottom: .2rem;
+  list-style: none;
+}
+.cid-rz8XzwjK5f .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 11px 16px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #767676;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+.cid-rz8XzwjK5f .mbr-text {
+  color: #767676;
+}
+@media (min-width: 992px) {
+  .cid-rz8XzwjK5f img {
+    width: 90%;
+  }
+}
 .cid-rwtBZ2A7qZ .navbar {
   padding: .5rem 0;
   background: #dbf2f4;
