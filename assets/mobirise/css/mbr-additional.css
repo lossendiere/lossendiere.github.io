@@ -5240,6 +5240,68 @@ body {
 .cid-rzkAaJeNvG .panel-text {
   color: #9c969b;
 }
+.cid-rA4Qw1ouk6 {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #f3f1d8;
+}
+.cid-rA4QCxWh8M {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rA4QCxWh8M .mbr-iconfont {
+  font-size: 1.2rem!important;
+}
+.cid-rA4QCxWh8M p {
+  margin-bottom: 0!important;
+}
+.cid-rA4QCxWh8M .card {
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+}
+.cid-rA4QCxWh8M .card .card-header {
+  padding: 0;
+  border-bottom: 1px solid #cccccc;
+}
+.cid-rA4QCxWh8M .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-rA4QCxWh8M .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rA4QCxWh8M .card .card-header a.panel-title h4 {
+  padding: 0.8rem 0.2rem;
+  margin-bottom: 0;
+}
+.cid-rA4QCxWh8M .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rA4QCxWh8M .card .panel-body {
+  color: #767676;
+}
+.cid-rA4QCxWh8M .card-header {
+  transition: all 0.3s;
+  background-color: #ffffff;
+}
+.cid-rA4QCxWh8M .card-header:hover {
+  background-color: #ffffff;
+}
+.cid-rA4QCxWh8M .card-header:hover h4 {
+  color: #3d626c !important;
+}
+.cid-rA4QCxWh8M H4 {
+  color: #3d626c;
+}
+.cid-rA4QCxWh8M .panel-text {
+  color: #9c969b;
+}
 .cid-rwtBZ2A7qZ .navbar {
   padding: .5rem 0;
   background: #dbf2f4;
