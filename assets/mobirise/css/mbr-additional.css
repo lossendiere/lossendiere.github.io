@@ -4337,6 +4337,44 @@ body {
 .cid-rzkB8CXuBI .panel-text {
   color: #9c969b;
 }
+.cid-rAbpOTh4p0 {
+  padding-top: 45px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rAbpOTh4p0 img {
+  height: 500px;
+  object-fit: cover;
+}
+.cid-rAbpOTh4p0 .card-img {
+  position: relative;
+}
+.cid-rAbpOTh4p0 .card-img img {
+  height: 100%;
+  object-fit: cover;
+  z-index: 2;
+  position: relative;
+}
+.cid-rAbpOTh4p0 .card-img:after {
+  content: '';
+  position: absolute;
+  transition: all 0.3s;
+  border-radius: 100%;
+  z-index: 1;
+  bottom: 5px;
+  left: 50%;
+  right: 50%;
+  opacity: 1;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 40px;
+  box-shadow: 0 35px 30px 0 rgba(0, 0, 0, 0.35);
+}
+@media (max-width: 767px) {
+  .cid-rAbpOTh4p0 .card-img {
+    margin-bottom: 2rem;
+  }
+}
 .cid-rwtBZ2A7qZ .navbar {
   padding: .5rem 0;
   background: #dbf2f4;
@@ -5300,6 +5338,68 @@ body {
   color: #3d626c;
 }
 .cid-rA4QCxWh8M .panel-text {
+  color: #9c969b;
+}
+.cid-rAaicvUnTl {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #f3f1d8;
+}
+.cid-rAailQHkgQ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  position: relative;
+  background-color: #ffffff;
+}
+.cid-rAailQHkgQ .mbr-iconfont {
+  font-size: 1.2rem!important;
+}
+.cid-rAailQHkgQ p {
+  margin-bottom: 0!important;
+}
+.cid-rAailQHkgQ .card {
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+}
+.cid-rAailQHkgQ .card .card-header {
+  padding: 0;
+  border-bottom: 1px solid #cccccc;
+}
+.cid-rAailQHkgQ .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  line-height: normal;
+}
+.cid-rAailQHkgQ .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rAailQHkgQ .card .card-header a.panel-title h4 {
+  padding: 0.8rem 0.2rem;
+  margin-bottom: 0;
+}
+.cid-rAailQHkgQ .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rAailQHkgQ .card .panel-body {
+  color: #767676;
+}
+.cid-rAailQHkgQ .card-header {
+  transition: all 0.3s;
+  background-color: #ffffff;
+}
+.cid-rAailQHkgQ .card-header:hover {
+  background-color: #ffffff;
+}
+.cid-rAailQHkgQ .card-header:hover h4 {
+  color: #3d626c !important;
+}
+.cid-rAailQHkgQ H4 {
+  color: #3d626c;
+}
+.cid-rAailQHkgQ .panel-text {
   color: #9c969b;
 }
 .cid-rwtBZ2A7qZ .navbar {
