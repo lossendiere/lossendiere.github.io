@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "bois2fer3d.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "personam4",
       "title": "PersonaM4",
@@ -53,7 +53,7 @@
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 65,
+    "uniqCompNum": 67,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -3544,11 +3544,11 @@
           "_name": "image02",
           "_customHTML": "<section class=\"image2\" group=\"Images\">\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n\n            <div class=\"col-lg-4 col-md-4\">\n                <div class=\"card-img\">\n                    <img src=\"@PROJECT_PATH@/assets/images/dimensions-switch-7301-853x432.jpg\" alt=\"Mobirise\" title>\n                </div>\n            </div>\n\n\n            <div class=\"col-lg-4 col-md-4\">\n                <div class=\"card-img\">\n                    <img src=\"../_images/img/02.jpg\" alt=\"Mobirise\">\n                </div>\n\n            </div>\n\n            <div class=\"col-lg-4 col-md-4\">\n                <div class=\"card-img\">\n                    <img src=\"../_images/img/03.jpg\" alt=\"Mobirise\">\n                </div>\n\n            </div>\n\n\n\n        </div>\n    </div>\n</section>",
           "_cid": "rAbpOTh4p0",
+          "_anchor": "image02-1s",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "image02-1s"
+          "_params": {}
         }
       ]
     },
