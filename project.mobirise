@@ -53,7 +53,7 @@
         "url": "https://fonts.googleapis.com/css?family=Quicksand:300,400,500,600,700"
       }
     ],
-    "uniqCompNum": 71,
+    "uniqCompNum": 73,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -4035,7 +4035,7 @@
             }
           },
           "_name": "content06",
-          "_customHTML": "<section class=\"content6\" group=\"Content\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row\">\n\n            <div class=\"title col-12 col-md-12\">\n                <h2 mbr-if=\"showTitle\" class=\"align-left pb-4 mbr-fonts-style\" mbr-theme-style=\"display-2\">La langue Française selon Arnaud Hoedt et Jérôme Piron</h2>\n\n            </div>\n\n            <div class=\"col-12 mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                <p>Ces anciens professeurs de Français et religion Catholique Belges proposent de rendre la langue Française plus logique. Donc de consacrer moins de temps a apprendre des exceptions pour le donner à la littérature.</p>\n            </div>\n            <div class=\"col-12 mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                <p><a href=\"https://www.liberation.fr/debats/2018/09/02/les-crepes-que-j-ai-mange-un-nouvel-accord-pour-le-participe-passe_1676135\" target=\"_blank\">Les crêpes que j'ai mangé</a><br><a href=\"https://www.franceinter.fr/emissions/tu-parles\" target=\"_blank\">Tu parle</a> / France Inter</p><p>Ci dessous une vidéo d'accroche (Teaser) du<br>spectacle \"La convivialité\".</p>\n            </div>\n            <div class=\"col-12 col-md-4 align-left mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline mbr-if=\"cardsAmount > 2\">\n                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a tortor sed mi fringilla\n                    suscipit. Fusce fermentum consequat tincidunt. Aliquam id fringilla lacus. Duis laoreet urna at\n                    pellentesque semper. Nunc eu ornare dui. Sed pulvinar condimentum volutpat. Vestibulum vitae rutrum\n                    urna, sed maximus metus. Donec fermentum, leo eget ultrices fringilla.</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content6\" group=\"Content\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <select title=\"Cards\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\" selected>2</option>\n            <option value=\"3\">3</option>\n        </select>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"row\">\n\n            <div class=\"title col-12 col-md-12\">\n                <h2 mbr-if=\"showTitle\" class=\"align-left pb-4 mbr-fonts-style\" mbr-theme-style=\"display-2\">La langue Française selon Arnaud Hoedt et Jérôme Piron</h2>\n\n            </div>\n\n            <div class=\"col-12 mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-12': cardsAmount == 1, 'col-md-4': cardsAmount == 3}\">\n                <p>Ces anciens professeurs Belges de Français et de religion Catholique proposent de rendre la langue Française plus logique. Donc de consacrer moins de temps a apprendre des exceptions pour le donner à la littérature.</p>\n            </div>\n            <div class=\"col-12 mbr-text align-left mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline mbr-class=\"{'col-md-6': cardsAmount == 2, 'col-md-4': cardsAmount == 3}\" mbr-if=\"cardsAmount > 1\">\n                <p><a href=\"https://www.liberation.fr/debats/2018/09/02/les-crepes-que-j-ai-mange-un-nouvel-accord-pour-le-participe-passe_1676135\" target=\"_blank\">Les crêpes que j'ai mangé</a><br><a href=\"https://www.franceinter.fr/emissions/tu-parles\" target=\"_blank\">Tu parle</a> / France Inter</p><p><b>Ci dessous une vidéo d'accroche (Teaser) du<br>spectacle \"La convivialité\".</b></p>\n            </div>\n            <div class=\"col-12 col-md-4 align-left mbr-text mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-article data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline mbr-if=\"cardsAmount > 2\">\n                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a tortor sed mi fringilla\n                    suscipit. Fusce fermentum consequat tincidunt. Aliquam id fringilla lacus. Duis laoreet urna at\n                    pellentesque semper. Nunc eu ornare dui. Sed pulvinar condimentum volutpat. Vestibulum vitae rutrum\n                    urna, sed maximus metus. Donec fermentum, leo eget ultrices fringilla.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rAK50w4UN5",
           "_anchor": "content06-1x",
           "_protectedParams": [],
@@ -4156,6 +4156,83 @@
           "_once": false,
           "_params": {},
           "_anchor": "video01-1y"
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "& when (@bg-type = 'color')": {
+              "background-color": "@bg-value"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            },
+            ".mbr-text": {
+              "color": "#879a9f"
+            },
+            ".color": {
+              "background": "@bgcolor"
+            },
+            ".counter-container": {
+              "ul": {
+                "margin-bottom": "0",
+                "padding-left": "1.2rem",
+                "line-height": "2",
+                "li": {
+                  "margin-bottom": ".2rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "14px 16px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "6px",
+                      "height": "6px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "@media (min-width: 767px)": {
+              ".card2": {
+                "margin-left": "1rem"
+              },
+              ".card-wrapper": {
+                "margin-right": "1rem"
+              },
+              "li": {
+                "&:before": {
+                  "left": "1rem!important"
+                }
+              }
+            }
+          },
+          "_name": "content08",
+          "_customHTML": "<section class=\"content8\" group=\"Content\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n        <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text Title\" name=\"showTextTitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Left Col Color\" name=\"bgcolor\" value=\"#fff3f3\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#3d626c\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background1.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n        <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container-fluid\">\n        <div class=\"row\" mbr-cards=\"bootstrap\">\n            <div class=\"color col-12 col-md-4 py-5\">\n                <div class=\"card-wrapper\">\n\n\n                    <h4 class=\"card-title align-right mbr-fonts-style\" mbr-theme-style=\"display-2\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Autres vidéos de<br>Arnaud Hoedt et Jérôme Piron</h4>\n\n\n                </div>\n            </div>\n\n            <div class=\"col-12 col-md-8 py-5\">\n                <div class=\"card2\">\n                    <h4 class=\"text-title align-left mbr-fonts-style\" mbr-if=\"showTextTitle\" mbr-theme-style=\"display-5\" data-app-selector=\".text-title\">A new way to create resume for you</h4>\n\n\n\n                    <p class=\"mbr-text pb-2 align-left mbr-fonts-style\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vulputate est leo, vitae auctor\n                        metus\n                        eleifend eu. Quisque fermentum nisi sed convallis ornare.</p>\n\n                    <div class=\"mbr-text counter-container mbr-fonts-style\" mbr-theme-style=\"display-4\" data-app-selector=\".mbr-text, .mbr-section-btn\" data-multiline mbr-article>\n                        <ul>\n                            <li><a href=\"https://www.youtube.com/watch?v=LzCrzH1qbH8\" target=\"_blank\">L'éthymologie</a></li>\n                            <li><a href=\"https://www.youtube.com/watch?v=5YO7Vg1ByA8\" target=\"_blank\">TEDx Rennes</a></li>\n                            <li><a href=\"https://www.youtube.com/watch?v=5YO7Vg1ByA8\" target=\"_blank\">Grammar Nazi</a></li>\n                            <li><a href=\"https://www.youtube.com/watch?v=g7K51U9qj5M\" target=\"_blank\">La réforme de l'orthographe Française viendra t'elle de Belgique</a></li>\n                            <li><br></li>\n                            <li><br></li>\n                            <li><br></li>\n                            <li><br></li>\n                            <li><br></li>\n                            <li><br></li>\n                            <li><br></li>\n                            <li><br></li>\n                        </ul>\n                        <ul>\n                        </ul>\n                    </div>\n\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://mobirise.co\" class=\"btn btn-primary-outline\" data-app-placeholder=\"Type Text\">\n                            READ MORE</a></div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "rAKn6ALrN0",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content08-20"
         }
       ]
     },
