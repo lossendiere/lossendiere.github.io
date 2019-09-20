@@ -1385,9 +1385,33 @@ body {
 .btn-primary-outline:hover:before {
   width: 0;
 }
+.lazy-bg {
+  background-image: none!important;
+}
+.lazy-placeholder:not(section) {
+  display: block;
+  position: relative;
+  padding-bottom: 56.25%;
+}
+iframe.lazy-placeholder,
+.lazy-placeholder:after {
+  content: '';
+  position: absolute;
+  width: 200px;
+  height: 200px;
+  background: transparent no-repeat center;
+  background-size: contain;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-image: url("../../../data:image/svg+xml;charset=UTF-8,%3csvg width='32' height='32' viewBox='0 0 64 64' xmlns='http://www.w3.org/2000/svg' stroke='%230f7699' %3e%3cg fill='none' fill-rule='evenodd'%3e%3cg transform='translate(16 16)' stroke-width='2'%3e%3ccircle stroke-opacity='.5' cx='16' cy='16' r='16'/%3e%3cpath d='M32 16c0-9.94-8.06-16-16-16'%3e%3canimateTransform attributeName='transform' type='rotate' from='0 16 16' to='360 16 16' dur='1s' repeatCount='indefinite'/%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/svg%3e");
+}
+section.lazy-placeholder:after {
+  opacity: 0.5;
+}
 .cid-rv3lKkdcfe {
-  padding-top: 135px;
-  padding-bottom: 45px;
+  padding-top: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rv3lKkdcfe .card-img span {
@@ -1821,6 +1845,68 @@ body {
 .cid-rwtBZ2A7qZ .dropdown-item:hover {
   color: #ffffff !important;
   border-bottom: 1px solid currentColor;
+}
+.cid-rCCAYK10RD {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rCCAYK10RD .card-img span {
+  font-size: 90px;
+  color: #0f7699;
+}
+@media (min-width: 992px) {
+  .cid-rCCAYK10RD .col-lg-x {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
+.cid-rCCBDOIrEV {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rCCBDOIrEV .mbr-text {
+  color: #879a9f;
+}
+.cid-rCCBDOIrEV .color {
+  background: #fff3f3;
+}
+.cid-rCCBDOIrEV .counter-container ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+  line-height: 2;
+}
+.cid-rCCBDOIrEV .counter-container ul li {
+  margin-bottom: .2rem;
+  list-style: none;
+}
+.cid-rCCBDOIrEV .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 14px 16px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #3d626c;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+@media (min-width: 767px) {
+  .cid-rCCBDOIrEV .card2 {
+    margin-left: 1rem;
+  }
+  .cid-rCCBDOIrEV .card-wrapper {
+    margin-right: 1rem;
+  }
+  .cid-rCCBDOIrEV li:before {
+    left: 1rem!important;
+  }
 }
 .cid-rwtBZ2A7qZ .navbar {
   padding: .5rem 0;
