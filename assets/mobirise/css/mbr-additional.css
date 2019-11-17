@@ -3756,6 +3756,139 @@ section.lazy-placeholder:after {
   padding-bottom: 30px;
   background-color: #ffffff;
 }
+.cid-rI44VHlmDB {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rI44VHlmDB .mbr-text {
+  color: #879a9f;
+}
+.cid-rI44VHlmDB .color {
+  background: #fff3f3;
+}
+.cid-rI44VHlmDB .counter-container ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+  line-height: 2;
+}
+.cid-rI44VHlmDB .counter-container ul li {
+  margin-bottom: .2rem;
+  list-style: none;
+}
+.cid-rI44VHlmDB .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 14px 16px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #3d626c;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+@media (min-width: 767px) {
+  .cid-rI44VHlmDB .card2 {
+    margin-left: 1rem;
+  }
+  .cid-rI44VHlmDB .card-wrapper {
+    margin-right: 1rem;
+  }
+  .cid-rI44VHlmDB li:before {
+    left: 1rem!important;
+  }
+}
+.cid-rI47JIWg2E {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/belle-peinture-698x182.jpg");
+}
+.cid-rI47kpOZHY {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background2.jpg");
+}
+.cid-rI47kpOZHY .card-box {
+  padding: 0rem;
+}
+.cid-rI47kpOZHY .mbr-section-btn {
+  margin-top: 1.8rem;
+}
+.cid-rI47kpOZHY .card {
+  padding: 0;
+  margin: auto;
+}
+.cid-rI47kpOZHY .card-img {
+  height: 400px;
+}
+.cid-rI47kpOZHY .card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cid-rI47kpOZHY .card-wrapper {
+  padding: 2rem;
+  width: 100%;
+}
+@media (min-width: 1400px) {
+  .cid-rI47kpOZHY .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-rI4aEbxsHI {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #f3f1d8;
+}
+.cid-rI4aEbxsHI .card-box {
+  padding: 0rem;
+}
+.cid-rI4aEbxsHI .mbr-section-btn {
+  margin-top: 1.8rem;
+}
+.cid-rI4aEbxsHI .card {
+  padding: 0;
+  height: 100%;
+}
+.cid-rI4aEbxsHI .card-img {
+  height: 400px;
+}
+.cid-rI4aEbxsHI .card-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.cid-rI4aEbxsHI .card-wrapper {
+  padding: 2rem;
+  width: 100%;
+  margin: auto;
+}
+.cid-rI4aEbxsHI .cardbg {
+  background: #f6f6f6;
+  height: auto;
+}
+.cid-rI4aEbxsHI .text-card {
+  display: flex;
+  align-items: center;
+}
+@media (min-width: 1400px) {
+  .cid-rI4aEbxsHI .card-wrapper {
+    padding: 4rem;
+  }
+}
+.cid-rI4aEbxsHI .card-title {
+  text-align: center;
+}
+.cid-rI4cJiJ4N0 {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
 .cid-rzkyY6kEXK {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -3817,44 +3950,6 @@ section.lazy-placeholder:after {
 }
 .cid-rzkB8CXuBI .panel-text {
   color: #9c969b;
-}
-.cid-rAbpOTh4p0 {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rAbpOTh4p0 img {
-  height: 500px;
-  object-fit: cover;
-}
-.cid-rAbpOTh4p0 .card-img {
-  position: relative;
-}
-.cid-rAbpOTh4p0 .card-img img {
-  height: 100%;
-  object-fit: cover;
-  z-index: 2;
-  position: relative;
-}
-.cid-rAbpOTh4p0 .card-img:after {
-  content: '';
-  position: absolute;
-  transition: all 0.3s;
-  border-radius: 100%;
-  z-index: 1;
-  bottom: 5px;
-  left: 50%;
-  right: 50%;
-  opacity: 1;
-  transform: translate(-50%, -50%);
-  width: 70%;
-  height: 40px;
-  box-shadow: 0 35px 30px 0 rgba(0, 0, 0, 0.35);
-}
-@media (max-width: 767px) {
-  .cid-rAbpOTh4p0 .card-img {
-    margin-bottom: 2rem;
-  }
 }
 .cid-rwtBZ2A7qZ .navbar {
   padding: .5rem 0;
