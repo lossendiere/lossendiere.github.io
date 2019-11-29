@@ -3380,9 +3380,43 @@ section.lazy-placeholder:after {
     left: 1rem!important;
   }
 }
-.cid-rJe08vAOaG {
-  height: 750px;
-  background-image: url("../../../assets/images/incoterms-2020-multimodaux-international-pratique-madeleine-nguyen-the-1239x882.png");
+.cid-rJe3mf5v35 {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rJe3mf5v35 img {
+  height: 500px;
+  object-fit: cover;
+}
+.cid-rJe3mf5v35 .card-img {
+  position: relative;
+}
+.cid-rJe3mf5v35 .card-img img {
+  height: 100%;
+  object-fit: cover;
+  z-index: 2;
+  position: relative;
+}
+.cid-rJe3mf5v35 .card-img:after {
+  content: '';
+  position: absolute;
+  transition: all 0.3s;
+  border-radius: 100%;
+  z-index: 1;
+  bottom: 5px;
+  left: 50%;
+  right: 50%;
+  opacity: 1;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 40px;
+  box-shadow: 0 35px 30px 0 rgba(0, 0, 0, 0.35);
+}
+@media (max-width: 767px) {
+  .cid-rJe3mf5v35 .card-img {
+    margin-bottom: 2rem;
+  }
 }
 .cid-rwtBZ2A7qZ .navbar {
   padding: .5rem 0;
