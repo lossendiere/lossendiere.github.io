@@ -3333,6 +3333,106 @@ section.lazy-placeholder:after {
 .cid-rzkuBhnbAV .card:hover .card-img:after {
   opacity: 1;
 }
+.cid-rJdWXTQ88X {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rJdWXTQ88X .mbr-text {
+  color: #879a9f;
+}
+.cid-rJdWXTQ88X .color {
+  background: #fff3f3;
+}
+.cid-rJdWXTQ88X .counter-container ul {
+  margin-bottom: 0;
+  padding-left: 1.2rem;
+  line-height: 2;
+}
+.cid-rJdWXTQ88X .counter-container ul li {
+  margin-bottom: .2rem;
+  list-style: none;
+}
+.cid-rJdWXTQ88X .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 14px 16px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #3d626c;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+@media (min-width: 767px) {
+  .cid-rJdWXTQ88X .card2 {
+    margin-left: 1rem;
+  }
+  .cid-rJdWXTQ88X .card-wrapper {
+    margin-right: 1rem;
+  }
+  .cid-rJdWXTQ88X li:before {
+    left: 1rem!important;
+  }
+}
+.cid-rJdYp1chIs {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rJdYp1chIs .card-box {
+  padding: 0rem;
+}
+.cid-rJdYp1chIs .mbr-section-btn {
+  margin-top: 1.8rem;
+}
+.cid-rJdYp1chIs h4 {
+  margin-bottom: 0;
+  padding-top: 1rem;
+}
+.cid-rJdYp1chIs p {
+  margin-bottom: 0;
+  padding-top: 0.2rem;
+  padding-top: 2rem;
+}
+.cid-rJdYp1chIs .row {
+  justify-content: space-between;
+}
+.cid-rJdYp1chIs .card-wrapper {
+  height: 100%;
+  padding-bottom: 1rem;
+}
+.cid-rJdYp1chIs .mbr-text {
+  color: #879a9f;
+}
+.cid-rJdYp1chIs .card-img {
+  height: 400px;
+  position: relative;
+}
+.cid-rJdYp1chIs .card-img img {
+  height: 100%;
+  object-fit: cover;
+  z-index: 2;
+  position: relative;
+}
+.cid-rJdYp1chIs .card-img:after {
+  content: '';
+  position: absolute;
+  border-radius: 100%;
+  z-index: 1;
+  bottom: 5px;
+  left: 50%;
+  right: 50%;
+  transform: translate(-50%, -50%);
+  width: 70%;
+  height: 40px;
+  box-shadow: 0 35px 30px 0 rgba(0, 0, 0, 0.35);
+}
 .cid-rwtBZ2A7qZ .navbar {
   padding: .5rem 0;
   background: #dbf2f4;
